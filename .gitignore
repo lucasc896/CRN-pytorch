@@ -1,0 +1,8 @@
+__pycache__
+.DS_Store
+*.p
+*.png
+*.pdf
+
+results
+simulation_cache
